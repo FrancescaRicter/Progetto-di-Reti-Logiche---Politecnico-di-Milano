@@ -1,4 +1,5 @@
 Progetto di Reti Logiche - Politecnico di Milano
+
 Anno Accademico 2020/2021
 
 Lo scopo del progetto è quello di realizzare un componente hardware scritto in linguaggio VHDL che rispetti la specifica.
