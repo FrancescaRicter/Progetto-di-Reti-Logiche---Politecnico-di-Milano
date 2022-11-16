@@ -1,4 +1,4 @@
-Progetto di Reti Logiche - Politecnico di Milano
+Prova Finale (Progetto di Reti Logiche) - Politecnico di Milano
 
 Anno Accademico 2020/2021
 
